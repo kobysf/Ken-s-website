@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewpoint" content="width-device-width, initial-scale1.0">
+        <title>👣KOBYSF</title>
+        
+    </head>
+    <body>
+<img src="circle-cropped.png" height="150px" width="150px" alt="Profile picture">
+        <h1>Simgo Kenneth Ok</h1>
+                                 
+        <h4>Psychotherapist</h4>
+<hr>
+        <h4>I am a amateur stress psychotherapist using video games and movies to relax and talk to people</h4>
+<hr>
+<h2>My WoRk?</h2>
+<ul>
+    <li>Good gaming skill</li>
+    <li>Knowledge about movies
+    <li>psychological study</li>
+</ul>
+<h2>My Hobby</h2>
+<ul>
+    <li>Jogging with people</li>
+    <li>Riding</li>
+    <li>Talking with weird topics</li>
+</ul>
+
+<h2>My Skill</h2>
+    <ul>
+        <li>Psychology Certificate</li>
+        <li>5 year experience</li>
+        <li>6 year experience in clinic</li>
+    </ul>
+
+    <hr>
+        <!-- My Schedule section start -->
+        <div class="section">
+            <h1><span>Schedule</span></h1>
+            <table>
+                <tr>
+                    <th>Day</th>
+                    <th>Mon</th>
+                    <th>Tue</th>
+                    <th>Wed</th>
+                    <th>Thu</th>
+                    <th>Fri</th>
+                </tr>
+                <tr>
+                    <td>8-8:30</td>
+                    <td class="selected">Free</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>9-10</td>
+                    <td></td>
+                    <td class="selected">Free</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>1-1:30</td>
+                    <td></td>
+                    <td></td>
+                    <td class="selected">Free</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>3:45-5</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td class="selected">Free</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>6-6:15</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td class="selected">Free</td>
+                </tr>
+            </table>
+        </div>
+        <!-- My Schedule section end -->
+        
+    </body>
+</html>
